@@ -1,0 +1,43 @@
+{
+    "ka":[
+    {
+    "type":"pay",
+    "money":-99,
+    "date":"2024-8-1 10:35:22",
+    "useFor":"drinks",
+    "id":1},{
+        "type": "pay",
+        "money": -89,
+        "date": "2024-8-1 11:35:22",
+        "useFor": "logine",
+        "id": 2
+    },{
+        "type": "income",
+        "money": 100,
+        "date": "2024-9-1 10:35:22",
+        "useFor": "drinks",
+        "id": 3
+    },
+    {
+        "type": "income",
+        "money": 100,
+        "date": "2024-9-1 12:35:22",
+        "useFor": "logine",
+        "id": 4
+    },
+        {
+            "type": "income",
+            "money": -66,
+            "date": "2024-9-1 12:35:22",
+            "useFor": "logine",
+            "id": 5
+        },
+            {
+                "type": "pay",
+                "money": 100,
+                "date": "2024-9-1 12:35:22",
+                "useFor": "drinks",
+                "id": 6
+            }
+]
+}
