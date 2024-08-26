@@ -1,5 +1,5 @@
 //账单相关数据
-import {createSlice} from '@reduxjs/toolkit'
+import { createSlice } from '@reduxjs/toolkit'
 //获取响应
 import axios from 'axios'
     const biliStore=createSlice({

@@ -10,8 +10,8 @@ const router = createBrowserRouter([
         path:'/',
         element:<Layout/>,
         children:[ //绑定子路由
-        {
-            index:true,
+        {   
+            path:'month',
             element:<Month/>
         },
         {path:'year',
